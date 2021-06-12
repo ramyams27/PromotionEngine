@@ -1,0 +1,6 @@
+C:\Users\sagars\source\repos\PricingCalculator\bin\Release\PricingCalculator.exe.config
+C:\Users\sagars\source\repos\PricingCalculator\bin\Release\PricingCalculator.exe
+C:\Users\sagars\source\repos\PricingCalculator\bin\Release\PricingCalculator.pdb
+C:\Users\sagars\source\repos\PricingCalculator\obj\Release\PricingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sagars\source\repos\PricingCalculator\obj\Release\PricingCalculator.exe
+C:\Users\sagars\source\repos\PricingCalculator\obj\Release\PricingCalculator.pdb
